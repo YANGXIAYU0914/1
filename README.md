@@ -8,18 +8,23 @@ During class, we carried out laser cutting. The task, organized in groups, was t
 </p>
 
 ## 2
-So our group began the production process, first using Adobe Illustrator to draw a vector graphic, so that it could be opened in “Laser CAD”.
-于是我们小组开始制作，先是使用adobe的ai绘制矢量图，以便于可以在“laser CAD”中打开。
+At first, we measured the thickness of the wooden board using a vernier caliper, and the result was 4 mm.So our group began the production process, first using Adobe Illustrator to draw a vector graphic, so that it could be opened in “Laser CAD”.We set the values to start from 3.70 and increase step by step by 0.05 up to 4.25.
+最开始我们使用游标卡尺对于木板厚度进行测量，结果是4mm。于是我们小组开始制作，先是使用adobe的ai绘制矢量图，以便于可以在“laser CAD”中打开。我们设置从3.70开始每0.05一个梯度逐次增加至4.25。
 <p align="center">
-<img src="file/文件1.jpg" alt="ppt" width="500"/>
+<img src="file/量木板厚度.jpg" alt="ppt" width="400"/>
 </p>
 
 <p align="center">
-<img src="file/文件2.jpg" alt="ppt" width="500"/>
+<img src="file/文件1.jpg" alt="ppt" width="600"/>
 </p>
 
 <p align="center">
-<img src="file/文件3.jpg" alt="ppt" width="500"/>
+<img src="file/文件2.jpg" alt="ppt" width="600"/>
+</p>
+
+<p align="center">
+<img src="file/文件3.jpg" alt="ppt" width="600"/>
 </p>
 
 ## 3
+
