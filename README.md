@@ -68,6 +68,12 @@ Finished product.
 </p>
 
 ## 5 Summary and Reflection
+### 1
 The teacher raised a question: the edges of the wooden board were slightly burnt. This could be due to the power being too high or the cutting speed being too slow. He suggested an improvement: we could try different settings, with the optimal condition being as fast as possible while using the minimum necessary power.
 
 老师提出了一个问题，木板的边缘有一些烧焦。这可能是功率太强或者速度太慢的原因。并给我们提出改良方案：可以尝试不同设置，最佳状态是尽可能快且使用最低限度的电力。
+
+### 2
+Kerf testing is a very important step in laser cutting; otherwise, the wooden pieces may be wasted due to overly loose dimensions. Before performing the full cut, a small ruler should be made to test the material loss. The teacher in the laser cutting area recommended conducting the loss test at the same focal length, as this produces more accurate results.
+
+Kerf testing是激光切割中很重要的一个环节，否则很有可能因为尺寸过于松动而导致切割的木料作废。在完整切割前，应当制作一个小型的标尺进行损耗测试。激光切割区域的老师建议在相同焦距下进行损耗测试，这样的结果更为精准。
