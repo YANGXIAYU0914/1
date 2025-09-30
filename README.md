@@ -13,6 +13,10 @@ At first, we measured the thickness of the wooden board using a vernier caliper,
 <p align="center">
 <img src="file/量木板厚度.jpg" alt="ppt" width="500"/>
 </p>
+<p align="center">
+Measuring the thickness of the wooden board using a vernier caliper.
+</p>
+
 
 <p align="center">
 <img src="file/文件1.jpg" alt="ppt" width="600"/>
