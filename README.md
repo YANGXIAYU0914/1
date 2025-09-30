@@ -52,3 +52,18 @@ Next, our group went to the laser cutting area on the first floor to work. With 
 <p align="center">
 Diagram of the laser cutting process.
 </p>
+
+## 4
+But we soon discovered a problem. None of the slots fit the wooden board perfectly. Each one was slightly too large, even the smallest at 3.7 mm. The teacher realized that our measurement of the board’s thickness was not accurate enough. The actual thickness of the board was 3.74 mm, and our measurement had been too high. We immediately decided to remake the ruler, changing the measurement range from “3.7 mm–4.25 mm” to “3.15 mm–3.7 mm,” and performed laser cutting again. This time, the result was very good—3.6 mm fit the board perfectly.
+
+但很快我们发现了一个不妙的事情。每一个插孔都无法完美契合木板。每一个都偏大，即使是最小的3.7mm。老师发现是我们对于木板厚度的测量不够准确。木板厚度的准确值是3.74mm，我们测量偏大。于是我们立马决定重新制作一个标尺，将测量范围从“3.7mm-4.25mm”改为“3.15mm-3.7mm”。再次进行激光切割。这次切割出来的结果很好，3.6mm一档可以完美契合木板。
+<p align="center">
+<img src="file/标尺1.jpg" alt="ppt" width="500"/>
+</p>
+<p align="center">
+<img src="file/标尺2.jpg" alt="ppt" width="500"/>
+</p>
+<p align="center">
+Finished product.
+</p>
+
