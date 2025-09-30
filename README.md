@@ -40,4 +40,15 @@ The process of creating the file.
 </p>
 
 ## 3
+Next, our group went to the laser cutting area on the first floor to work. With the teacher’s help, we modified the file to make it suitable for the laser engraving machine. We placed the wooden board into the machine and prepared for focusing, positioning, and tracing the outline. It is important to note that the exhaust fan must be turned on! Ventilation helps reduce harmful gases generated during laser cutting. During our first cut, we forgot to turn it on and only did so after the teacher’s reminder.
 
+接着，我们小组到一楼激光切割区域进行工作。在老师的帮助下，我们改动文件以适应激光雕刻机。将木板放入机器，进行对焦、定位、走边框的准备工作。值得注意的是，要开启排风扇！排风可以减少激光切割中产生的不良气体。第一次切割时我们忘记开了，经过老师提醒才开启。
+<p align="center">
+<img src="file/激光雕刻1.jpg" alt="ppt" width="600"/>
+</p>
+<p align="center">
+<img src="file/激光雕刻2.jpg" alt="ppt" width="600"/>
+</p>
+<p align="center">
+Diagram of the laser cutting process.
+</p>
