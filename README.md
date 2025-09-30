@@ -7,6 +7,10 @@ During class, we carried out laser cutting. The task, organized in groups, was t
 <p align="center">
 <img src="file/ppt.jpg" alt="ppt" width="500"/>
 </p>
+<p align="center">
+Explanation of “KERF” in the PPT.
+</p>
+
 
 ## 2
 At first, we measured the thickness of the wooden board using a vernier caliper, and the result was 4 mm.So our group began the production process, first using Adobe Illustrator to draw a vector graphic, so that it could be opened in “Laser CAD”.We set the values to start from 3.70 and increase step by step by 0.05 up to 4.25.
@@ -25,13 +29,14 @@ Measuring the thickness of the wooden board using a vernier caliper.
 <p align="center">
 <img src="file/文件1.jpg" alt="ppt" width="600"/>
 </p>
-
 <p align="center">
 <img src="file/文件2.jpg" alt="ppt" width="600"/>
 </p>
-
 <p align="center">
 <img src="file/文件3.jpg" alt="ppt" width="600"/>
+</p>
+<p align="center">
+The process of creating the file.
 </p>
 
 ## 3
